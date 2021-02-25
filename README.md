@@ -1,5 +1,8 @@
 # dogs-app
 
+Link for review: https://vue-dogs-258aa.web.app/
+
+
 ## Project setup
 ```
 npm install
